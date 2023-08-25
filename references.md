@@ -1,6 +1,3 @@
-# LOLOLOL TEXT CONFLICT
+# References
 
-* octoshit 5 😈
-
-
-Commit message 1
+* octocat 1 😈
